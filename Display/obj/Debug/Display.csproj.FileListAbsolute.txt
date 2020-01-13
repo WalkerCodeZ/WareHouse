@@ -1,0 +1,10 @@
+F:\Yishion Files\Display\Display\bin\Debug\Display.exe.config
+F:\Yishion Files\Display\Display\bin\Debug\Display.exe
+F:\Yishion Files\Display\Display\bin\Debug\Display.pdb
+F:\Yishion Files\Display\Display\obj\Debug\Display.csprojAssemblyReference.cache
+F:\Yishion Files\Display\Display\obj\Debug\Display.Form1.resources
+F:\Yishion Files\Display\Display\obj\Debug\Display.Properties.Resources.resources
+F:\Yishion Files\Display\Display\obj\Debug\Display.csproj.GenerateResource.cache
+F:\Yishion Files\Display\Display\obj\Debug\Display.csproj.CoreCompileInputs.cache
+F:\Yishion Files\Display\Display\obj\Debug\Display.exe
+F:\Yishion Files\Display\Display\obj\Debug\Display.pdb
